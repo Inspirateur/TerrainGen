@@ -2,7 +2,7 @@ mod draw2d;
 mod draw3d;
 mod erosion;
 use bevy::prelude::*;
-use draw2d::Draw2d;
+// use draw2d::Draw2d;
 use draw3d::Draw3d;
 use erosion::Erosion;
 use std::usize;
